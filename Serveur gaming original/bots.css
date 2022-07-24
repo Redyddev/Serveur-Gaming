@@ -1,0 +1,26 @@
+header {
+    background-color: dimgrey;
+    padding: 10px;
+}
+
+body {
+    background-color: darkgray;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titre {
+    color: darkgray;
+}
+ul , li {
+    color: dimgray;
+    list-style-type: decimal;
+}
+a {
+    text-decoration: none;
+}
+.ref {
+    color: dimgray;
+    text-decoration: underline;
+}

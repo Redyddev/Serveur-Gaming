@@ -1,0 +1,40 @@
+header {
+    background-color: dimgrey;
+    padding: 10px;
+}
+
+body {
+    background-color: darkgray;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titre {
+    color: darkgray;
+}
+
+.createur {
+    color: #71368a;
+}
+.admin {
+    color: #145730;
+}
+.moderateur {
+    color: #2ecc71;
+}
+.friend {
+    color: #c27c0e;
+}
+.membre {
+    float: left;
+    color: dimgray;
+    list-style-type: none;
+}
+.soustitre {
+    color:dimgray;
+    padding-left: 15px;
+}
+a {
+    text-decoration: none;
+}

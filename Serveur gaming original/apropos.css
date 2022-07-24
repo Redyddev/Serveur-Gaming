@@ -1,0 +1,27 @@
+header {
+    background-color: dimgrey;
+    padding: 10px;
+}
+
+body {
+    background-color: darkgray;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titre {
+    color: darkgray;
+}
+
+h2 {
+    color: #199bd2;
+    padding-left: 15px;
+}
+h3 {
+    color: dimgray;
+    padding-left: 20px;
+}
+a {
+    text-decoration: none;
+}
